@@ -2,6 +2,12 @@
 - 👀 I’m interested in Penetration Testing and Security Engineering
 - 🌱 I’m currently studying Cybersecurity at the University of Nebraska.
 - 💞️ Ask me about web design, using Linux tools, and music composition.
+
+  Here are some of my sites:
+
+ Clothing: https://wwww.theantisocialstore.com
+ Music (Instrumentals) Store: https://www.freshondatrack.com
+ 
 - 📫 Contact me on LinkedIn! 
 
 <!---
