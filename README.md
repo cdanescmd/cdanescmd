@@ -1,13 +1,7 @@
 - 👋 Hi, I’m Cleniq!
-- 👀 I’m interested in Web Development and IT EThics.
-- 🌱 I’m a sophomore Cybersecurity major.
-- 💞️ Ask me about compliance, anything Linux, and web design.
-
-  Here are some of my sites/designs:
-
-- Portfolio: https://cdanescmd.github.io/
-- Clothing: https://wwww.theantisocialstore.com/
-- Web Dev: https://freshcmd.my.canva.site/
+- 👀 I’m interested in SysAdmin and Security Engineering.
+- 🌱 I’m a junior Cybersecurity major.
+- 💞️ Ask me about IT compliance, Linux, and sysadmin.
 
  
 - 📫 Contact me on LinkedIn! 
