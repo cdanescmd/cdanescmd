@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cleniq!
-- 👀 I’m interested in SysAdmin and Security Engineering.
-- 🌱 I’m a junior Cybersecurity major.
-- 💞️ Ask me about IT compliance, Linux, and sysadmin.
+- 👀 I’m interested in both Software and Security Engineering.
+- 💞️ Ask me about anything IT - compliance, Linux, even sysadmin.
 
  
 - 📫 Contact me on LinkedIn! 
